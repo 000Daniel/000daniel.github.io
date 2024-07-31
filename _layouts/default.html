@@ -22,10 +22,11 @@
     <div class="wrapper">
       <section>
         <div id="title">
-          <img id="header-img" src="assets/CsharpLogo.png" width="36" height="40" style="float: center; padding: 0px 0px;" alt="">
+          
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <p>{{ site.description | default: site.github.project_tagline }}</p>
           <hr>
+          <img id="header-img" src="assets/CsharpLogo.png" width="36" height="40" style="float: left; padding: 0px 10px;" alt="">
           {{ content }}
           <hr>
           <span class="credits center">Please report any errors over to the relevant GitHub repository.<br></span>
