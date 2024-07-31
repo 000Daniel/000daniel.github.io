@@ -1,4 +1,3 @@
-# Home page
 ## About
 This site is built to provide documentation about topics in the C# programming language that I personally feel don't get enough coverage.
 
