@@ -11,13 +11,18 @@ The recent popularity and growth boost in the Godot game engine made me realise 
 
 
   
-<p align="center"><a href="https://000daniel.github.io/Ray-Cast-Godot/"><img id="header-img" src="assets/RayCastGraphic.png" width="30%" alt="Godot tutorial about Ray Casting in 3D"></a></p>
-<p align="center"><a href="https://000daniel.github.io/Ray-Cast-Godot/">3D Ray Cast Godot Tutorial</a></p>
+
 
 <table style="border-collapse: collapse; border: none;">
 <caption>Author Details</caption> 
         <tr style="border: none;"> 
-            <td style="border: none;">BITTU</td>
-            <td style="border: none;">BITTU</td>
+            <td style="border: none;">
+            <p align="center"><a href="https://000daniel.github.io/Ray-Cast-Godot/"><img id="header-img" src="assets/RayCastGraphic.png" width="30%" alt="Godot tutorial about Ray Casting in 3D"></a></p>
+<p align="center"><a href="https://000daniel.github.io/Ray-Cast-Godot/">3D Ray Cast Godot Tutorial</a></p>  
+            </td>
+            <td style="border: none;">
+              <p align="center"><a href="https://000daniel.github.io/Ray-Cast-Godot/"><img id="header-img" src="assets/RayCastGraphic.png" width="30%" alt="Godot tutorial about Ray Casting in 3D"></a></p>
+<p align="center"><a href="https://000daniel.github.io/Ray-Cast-Godot/">3D Ray Cast Godot Tutorial</a></p>
+            </td>
         </tr> 
 </table>
