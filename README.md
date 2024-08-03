@@ -8,9 +8,9 @@ The recent popularity and growth boost in the Godot game engine made me realise 
 
 <h1 align="center"> Documents </h1>
 
-<a href="https://000daniel.github.io/Ray-Cast-Godot/">
+
   
 <p align="center"><img id="header-img" src="assets/RayCastGraphic.png" width="30%"></p>
+<a href="https://000daniel.github.io/Ray-Cast-Godot/">
 <p align="center">3D Ray Cast Godot</p>
-
 </a>
