@@ -14,21 +14,10 @@ The recent popularity and growth boost in the Godot game engine made me realise 
 <p align="center"><a href="https://000daniel.github.io/Ray-Cast-Godot/"><img id="header-img" src="assets/RayCastGraphic.png" width="30%" alt="Godot tutorial about Ray Casting in 3D"></a></p>
 <p align="center"><a href="https://000daniel.github.io/Ray-Cast-Godot/">3D Ray Cast Godot Tutorial</a></p>
 
-<table class="noBorder" border="0">
+<table style="border-collapse: collapse; border: none;">
 <caption>Author Details</caption> 
-        <tr> 
-            <th>NAME</th> 
-            <th>AGE</th> 
-            <th>BRANCH</th> 
-        </tr> 
-        <tr> 
-            <td>BITTU</td> 
-            <td>22</td> 
-            <td>CSE</td> 
-        </tr> 
-        <tr> 
-            <td>RAM</td> 
-            <td>21</td> 
-            <td>ECE</td> 
+        <tr style="border: none;"> 
+            <td style="border: none;">BITTU</td>
+            <td style="border: none;">BITTU</td>
         </tr> 
 </table>
