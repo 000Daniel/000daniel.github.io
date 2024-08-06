@@ -19,8 +19,8 @@ The recent popularity and growth boost in the Godot game engine made me realise 
 <p align="center"><a href="https://000daniel.github.io/Ray-Cast-Godot/">3D Ray Cast Godot Tutorial</a></p>  
             </td>
             <td style="border: none;">
-              <p align="center"><a href="https://000daniel.github.io/Ray-Cast-Godot/"><img id="header-img" src="assets/RayCastGraphic.png" width="100%" alt="Godot tutorial about Ray Casting in 3D"></a></p>
-<p align="center"><a href="https://000daniel.github.io/Ray-Cast-Godot/">3D Ray Cast Godot Tutorial</a></p>
+              <p align="center"><a href="https://000daniel.github.io/Collision-Mask-Layer/"><img id="header-img" src="assets/CollisionLayersNMasksGraphic.png" width="100%" alt="Godot tutorial about Ray Casting in 3D"></a></p>
+<p align="center"><a href="https://000daniel.github.io/Collision-Mask-Layer/">Collision Masks and Layers Godot Tutorial</a></p>
             </td>
         </tr> 
 </table>
