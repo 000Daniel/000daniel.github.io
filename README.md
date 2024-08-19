@@ -21,5 +21,9 @@ Some of the documents here focus on the <a href="https://godotengine.org/">Godot
               <p align="center"><a href="https://000daniel.github.io/Collision-Mask-Layer/"><img id="header-img" src="assets/CollisionLayersNMasksGraphic.png" width="100%" alt="Godot tutorial about Ray Casting in 3D"></a></p>
 <p align="center"><a href="https://000daniel.github.io/Collision-Mask-Layer/">Collision Masks and Layers Godot Tutorial</a></p>
             </td>
+          <td style="border: none;">
+              <p align="center"><a href="https://000daniel.github.io/Draw3D-Godot/"><img id="header-img" src="https://github.com/000Daniel/Draw3D-Godot/blob/MainSite/assets/Draw3DGraphic_site.png?raw=true" width="100%" alt="Godot tutorial about Draw3D"></a></p>
+<p align="center"><a href="https://000daniel.github.io/Draw3D-Godot/">Draw3D Godot Tutorial</a></p>
+            </td>
         </tr> 
 </table>
