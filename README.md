@@ -25,5 +25,11 @@ Some of the documents here focus on the <a href="https://godotengine.org/">Godot
               <p align="center"><a href="https://000daniel.github.io/Draw3D-Godot/"><img id="header-img" src="assets/Draw3DGraphic_site.png" width="100%" alt="Godot tutorial about Draw3D"></a></p>
 <p align="center"><a href="https://000daniel.github.io/Draw3D-Godot/">Draw3D Godot Tutorial<br><br></a></p>
             </td>
+        </tr>
+        <tr style="border: none;"> 
+            <td style="border: none;">
+            <p align="center"><a href="https://000daniel.github.io/Shape-Cast/"><img id="header-img" src="assets/ShapeCastGraphic.png" width="100%" alt="Godot tutorial about Shape Cast 3D"></a></p>
+<p align="center"><a href="https://000daniel.github.io/Shape-Cast/">Shape Cast Godot Tutorial<br><br></a></p>  
+            </td>
         </tr> 
 </table>
